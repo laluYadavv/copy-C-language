@@ -1,8 +1,13 @@
-#include <stdio.h>
+#include<stdio.h>
 
 int main(){
-    int a = 20 ;
-    char b[] = "divyansh";
-    printf("My name is %s i am %d year old.",b,a);
-    return 0;
-}
+	int num1,num2,sum;
+
+	printf("Enter two intergers:");
+	scanf("%d %d", &num1, &num2);
+
+	sum = num1+num2;
+
+	printf("Sum of %d and %d is %d\n", num1, num2,sum);
+	return 0;
+}	
