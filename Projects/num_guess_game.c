@@ -11,7 +11,7 @@ Hint: Use loop & use a random number generator. */
 #include <time.h>
 
     int main(){
-        // Initialize the random number generator
+        // Initialize the Random number generator
         srand(time(0));
 
         // Generator Random num from 1 to 100
