@@ -9,6 +9,6 @@ int sum_of_three(int a, int b, int c){
 
 int main() {
     int result=sum_of_three(1,1,1);
-    printf("%d\n",result);
+    printf("%d\n    ",result);
     return 0;
 }
