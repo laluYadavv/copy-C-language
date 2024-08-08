@@ -1,1 +1,1 @@
-printf("Factorial of 3 is: %d\n", result);
+c*(9/5)
