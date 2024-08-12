@@ -1,0 +1,12 @@
+**Making an fibonacci code using recurrision:
+
+1.What is fibonacci series?
+ Fn = F(n − 1) + F(n − 2)
+ It is just substract the num by one then two and then add the two results 
+ That's it.
+
+2. Just defined the base condition of 0 and 1 in that case the ans will be 0 and 1 itself also their always an base condition for an recurrsion code.
+
+3. Then just apply the formula above and then make an main function(with an loop that repeat the code desire number of time).
+4. That's it simple as fuck!!
+
